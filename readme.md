@@ -8,11 +8,11 @@
 
 >wrangling the data
 
-*make a copy df not to disturb the original data
+* make a copy df not to disturb the original data
 
-*convert time columns into datetime to can make aggregations
+* convert time columns into datetime to can make aggregations
 
-*converting duration into minutes to be more reasonable and easier in observations
+* converting duration into minutes to be more reasonable and easier in observations
 
 * drop the rows with missing data
 
